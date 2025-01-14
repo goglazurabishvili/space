@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Cucumber Suite">
+    <test name="Cucumber Tests">
+        <classes>
+<!--            <class name="runner.TestRunner"/>-->
+            <class name="UITest.QuoraUITests"/>
+        </classes>
+    </test>
+</suite>
